@@ -1,10 +1,10 @@
-# Buscador de Alivio - Plataforma de Fitoterapia Tradicional
+# Buscador de Alivio - Fitoterapia Tradicional
 
-Plataforma web interactiva desarrollada para la gestión de catálogos y simulación de pedidos de productos herbarios tradicionales. El proyecto consolida un catálogo botánico riguroso basado en el listado oficial de Medicamentos Herbarios Tradicionales (MHT) del Ministerio de Salud Chileno, aplicando conceptos avanzados de manipulación del DOM, programación funcional y validación del lado del cliente.
+Plataforma web interactiva desarrollada para la gestión de catálogos y simulación de pedidos de productos herbarios tradicionales. El proyecto consolida un catálogo botánico riguroso basado en el listado oficial de Medicamentos Herbarios Tradicionales (MHT) del Ministerio de salud, aplicando conceptos de manipulación del DOM, programación funcional y validación del lado del cliente.
 
 ## Características Principales
 
-- **Catálogo Dinámico:** Renderizado automatizado de 12 especies medicinales con fichas técnicas detalladas (nombre científico, familia, partes usadas, preparación y precauciones).
+- **Catálogo Dinámico:** Renderizado automatizado de 12 de 103 especies medicinales con fichas técnicas detalladas (nombre científico, familia, partes usadas, preparación y precauciones).
 
 - **Módulo de Venta Sugerida:** Despliegue de packs combinados con distribución adaptativa y centrada.
 
